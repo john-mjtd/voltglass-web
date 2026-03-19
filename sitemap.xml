@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <!-- Czech pages -->
+  <url>
+    <loc>https://www.voltglass.cz/</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/pro-investory.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/pro-investory.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/for-investors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/pro-investory.html"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/docs/</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/docs/jak-to-funguje.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/jak-to-funguje.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/how-it-works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/jak-to-funguje.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/docs/parametry.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/parametry.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/parameters.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/parametry.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/docs/aplikace.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/aplikace.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/applications.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/aplikace.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/docs/uspornost.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/uspornost.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/efficiency.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/uspornost.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/docs/technicke-detaily.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/technical-details.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- English pages -->
+  <url>
+    <loc>https://www.voltglass.cz/en/</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/for-investors.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/pro-investory.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/for-investors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/pro-investory.html"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/docs/</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/docs/how-it-works.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/jak-to-funguje.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/how-it-works.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/jak-to-funguje.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/docs/parameters.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/parametry.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/parameters.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/parametry.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/docs/applications.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/aplikace.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/applications.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/aplikace.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/docs/efficiency.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/uspornost.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/efficiency.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/uspornost.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/docs/technical-details.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/technical-details.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Blog pages -->
+  <url>
+    <loc>https://www.voltglass.cz/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/blog/</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/future-of-heating-why-heated-glass.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/blog/future-of-heating-why-heated-glass.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/future-of-heating-why-heated-glass.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html"/>
+    <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.voltglass.cz/blog/spusteni-prodeje-dluhopisu-topne-sklo-vyrobni-zavod.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/spusteni-prodeje-dluhopisu-topne-sklo-vyrobni-zavod.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/bond-sale-launch-heated-glass-manufacturing-plant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/spusteni-prodeje-dluhopisu-topne-sklo-vyrobni-zavod.html"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/blog/bond-sale-launch-heated-glass-manufacturing-plant.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/spusteni-prodeje-dluhopisu-topne-sklo-vyrobni-zavod.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/bond-sale-launch-heated-glass-manufacturing-plant.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/spusteni-prodeje-dluhopisu-topne-sklo-vyrobni-zavod.html"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.voltglass.cz/blog/dekujeme-investorum-za-duveru.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/dekujeme-investorum-za-duveru.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/thank-you-investors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/dekujeme-investorum-za-duveru.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/blog/thank-you-investors.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/dekujeme-investorum-za-duveru.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/thank-you-investors.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/dekujeme-investorum-za-duveru.html"/>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>

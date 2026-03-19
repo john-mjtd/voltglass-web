@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>VoltGlass</title>
+  <meta name="description" content="VoltGlass® je revoluční topné sklo s patentovanou technologií. Úspora energie, neviditelné vytápění a moderní design pro vaši budovu.">
+  <meta name="keywords" content="topné sklo, vyhřívané sklo, VoltGlass®, úspora energie, moderní vytápění, infravytápění">
+  <link rel="canonical" href="https://www.voltglass.cz/">
+  
+  <!-- Hreflang -->
+  <link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/">
+  <link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/">
+  <link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="assets/img/logo.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.ico">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://www.voltglass.cz/">
+  <meta property="og:title" content="VoltGlass® – Topné sklo pro moderní vytápění">
+  <meta property="og:description" content="Revoluční topné sklo s patentovanou technologií. Úspora energie, neviditelné vytápění a moderní design.">
+  <meta property="og:image" content="https://www.voltglass.cz/assets/img/1_titulka.png">
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://www.voltglass.cz/">
+  <meta property="twitter:title" content="VoltGlass® – Topné sklo pro moderní vytápění">
+  <meta property="twitter:description" content="Revoluční topné sklo s patentovanou technologií. Úspora energie, neviditelné vytápění a moderní design.">
+  <meta property="twitter:image" content="https://www.voltglass.cz/assets/img/1_titulka.png">
+  
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css">
+  
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-D1SW8VBKFV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    // Analytics will be initialized only after cookie consent
+    // See cookies.js for consent handling
+  </script>
+  
+  <!-- Structured Data (Schema.org) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "VoltGlass",
+    "url": "https://www.voltglass.cz",
+    "logo": "https://www.voltglass.cz/assets/img/logo.png",
+    "description": "VoltGlass® je revoluční topné sklo s patentovanou technologií. Úspora energie, neviditelné vytápění a moderní design pro vaši budovu.",
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "Customer Service",
+      "email": "info@voltglass.cz"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/company/voltglass",
+      "https://www.facebook.com/voltglassofficial",
+      "https://instagram.com/voltglass"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Product",
+    "name": "VoltGlass® Topné Sklo",
+    "description": "Revoluční topné sklo s patentovanou technologií pro úsporné a neviditelné vytápění budov.",
+    "brand": {
+      "@type": "Brand",
+      "name": "VoltGlass"
+    },
+    "offers": {
+      "@type": "Offer",
+      "availability": "https://schema.org/PreOrder",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "priceCurrency": "CZK"
+      }
+    }
+  }
+  </script>
+</head>
+<body>
+  <!-- Primární navigace -->
+  <header class="vg-header">
+    <div class="vg-container vg-header-inner">
+      <a href="#hero" class="vg-logo">
+        <img src="assets/img/logo.png" alt="VoltGlass Logo" />
+      </a>
+      <div class="vg-header-right">
+        <a href="en/" class="vg-lang-switch" title="Switch to English"><span class="flag">🇨🇿</span><span>CZ</span></a>
+      </div>
+      <button class="vg-header-menu-toggle" id="menu-toggle" aria-label="Otevřít menu">
+        <i class="fas fa-bars"></i>
+      </button>
+    </div>
+  </header>
+
+  <!-- Floating Menu toggle button (appears on scroll) -->
+  <button class="vg-menu-toggle" id="floating-menu-toggle" aria-label="Otevřít menu">
+    <i class="fas fa-bars"></i>
+  </button>
+
+  <!-- Sidebar Navigation Menu -->
+  <nav class="vg-sidebar-menu" id="sidebar-menu">
+    <div class="vg-sidebar-header">
+      <h3>Menu</h3>
+      <button class="vg-sidebar-close" id="sidebar-close" aria-label="Zavřít menu">
+        <i class="fas fa-times"></i>
+      </button>
+    </div>
+    
+    <div class="vg-sidebar-section">
+      <h4 class="vg-sidebar-section-title">Na této stránce</h4>
+      <ul class="vg-sidebar-list">
+        <li><a href="#hero" class="vg-sidebar-link"><i class="fas fa-home"></i> Domů</a></li>
+        <li><a href="#technology" class="vg-sidebar-link"><i class="fas fa-bolt"></i> Proč VoltGlass</a></li>
+        <li><a href="#partnership" class="vg-sidebar-link"><i class="fas fa-handshake"></i> Pro koho je VoltGlass</a></li>
+        <li><a href="#newsletter" class="vg-sidebar-link"><i class="fas fa-envelope"></i> Newsletter</a></li>
+        <li><a href="#blog" class="vg-sidebar-link"><i class="fas fa-newspaper"></i> Blog</a></li>
+        <li><a href="#contact" class="vg-sidebar-link"><i class="fas fa-phone"></i> Kontakt</a></li>
+      </ul>
+    </div>
+    
+    <div class="vg-sidebar-section">
+      <h4 class="vg-sidebar-section-title">Další stránky</h4>
+      <ul class="vg-sidebar-list vg-sidebar-list-pages">
+        <li><a href="docs/" class="vg-sidebar-link vg-sidebar-link-page"><i class="fas fa-book"></i> Dokumentace</a></li>
+        <li><a href="blog/" class="vg-sidebar-link vg-sidebar-link-page"><i class="fas fa-newspaper"></i> Blog</a></li>
+        <li><a href="pro-investory.html" class="vg-sidebar-link vg-sidebar-link-page"><i class="fas fa-chart-line"></i> Pro investory</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Sidebar Overlay -->
+  <div class="vg-sidebar-overlay" id="sidebar-overlay"></div>
+
+  <!-- Scroll to Top Button -->
+  <button class="vg-scroll-top" id="scroll-top" aria-label="Zpět nahoru">
+    <i class="fas fa-arrow-up"></i>
+  </button>
+
+  <main>
+    <!-- 1. Hero -->
+    <section id="hero" class="vg-section vg-hero">
+      <div class="vg-hero-media">
+        <img src="assets/img/1_titulka.png" alt="VoltGlass topné sklo - úsporné neviditelné vytápění">
+      </div>
+      <div class="vg-hero-content">
+        <p class="vg-eyebrow">Patentovaná česká technologie</p>
+        <h1>Okna, která vytápějí</h1>
+        <p class="vg-subtitle">
+          Topné sklo VoltGlass® nahrazuje radiátory a uvolňuje prostor pro život.
+        </p>
+        <div class="vg-hero-actions">
+          <a href="docs/" class="vg-button vg-button-primary">Jak to funguje <i class="fas fa-arrow-right" style="margin-left: 0.5rem;"></i></a>
+          <a href="#newsletter" class="vg-button vg-button-outline">Kontaktujte nás</a>
+        </div>
+        <div class="vg-hero-actions" style="margin-top: 1rem;">
+          <a href="pro-investory.html" class="vg-button vg-button-investor">Pro investory</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Klíčové metriky -->
+    <section class="vg-section vg-metrics">
+      <div class="vg-container">
+        <div class="vg-metrics-grid">
+          <div class="vg-metric">
+            <span class="vg-metric-value">50°C</span>
+            <span class="vg-metric-label">max. teplota povrchu</span>
+          </div>
+          <div class="vg-metric">
+            <span class="vg-metric-value">30 min</span>
+            <span class="vg-metric-label">doba náběhu</span>
+          </div>
+          <div class="vg-metric">
+            <span class="vg-metric-value">25–120 W/m²</span>
+            <span class="vg-metric-label">plošný výkon</span>
+          </div>
+          <div class="vg-metric">
+            <span class="vg-metric-value">Patent ČR</span>
+            <span class="vg-metric-label">č. 309675</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 2. Rychlé claimy -->
+    <section id="technology" class="vg-section vg-section-alt">
+      <div class="vg-container">
+        <header class="vg-section-header">
+          <h2>Proč VoltGlass®</h2>
+          <p>Patentovaná technologie, která mění způsob vytápění budov.</p>
+        </header>
+
+        <div class="vg-claims-grid">
+          <div class="vg-claim">
+            <div class="vg-claim-icon"><i class="fas fa-eye-slash"></i></div>
+            <h3>Neviditelné</h3>
+            <p>Žádné radiátory, žádné rozvody. Teplo přímo ze skla.</p>
+          </div>
+          <div class="vg-claim">
+            <div class="vg-claim-icon"><i class="fas fa-leaf"></i></div>
+            <h3>Úsporné</h3>
+            <p>Teplo vzniká tam, kde jsou ztráty. Minimum energie, maximum komfortu.</p>
+          </div>
+          <div class="vg-claim">
+            <div class="vg-claim-icon"><i class="fas fa-certificate"></i></div>
+            <h3>Patentované</h3>
+            <p>Český patent č. 309675. Unikátní technologie vyvinutá v ČR.</p>
+          </div>
+          <div class="vg-claim">
+            <div class="vg-claim-icon"><i class="fas fa-bolt"></i></div>
+            <h3>Okamžité</h3>
+            <p>Pocitové teplo ihned. Plný výkon do 30 minut.</p>
+          </div>
+          <div class="vg-claim">
+            <div class="vg-claim-icon"><i class="fas fa-building"></i></div>
+            <h3>Univerzální</h3>
+            <p>Novostavby, rekonstrukce, interiéry i exteriéry.</p>
+          </div>
+          <div class="vg-claim">
+            <div class="vg-claim-icon"><i class="fas fa-solar-panel"></i></div>
+            <h3>Připravené na budoucnost</h3>
+            <p>Kompatibilní s fotovoltaikou a moderními energetickými standardy.</p>
+          </div>
+        </div>
+
+        <div style="margin-top: 3rem; text-align: center;">
+          <a href="docs/" class="vg-button">Zjistit více v dokumentaci <i class="fas fa-arrow-right" style="margin-left: 0.5rem;"></i></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Galerie -->
+    <section class="vg-section vg-section-alt vg-gallery-compact">
+      <div class="vg-container">
+        <div class="vg-gallery vg-gallery-grid">
+          <a href="assets/img/2.png" data-lightbox="gallery" data-title="VoltGlass® technologie">
+            <img src="assets/img/2.png" alt="VoltGlass technologie">
+          </a>
+          <a href="assets/img/3.png" data-lightbox="gallery" data-title="VoltGlass® instalace">
+            <img src="assets/img/3.png" alt="VoltGlass instalace">
+          </a>
+          <a href="assets/img/4.png" data-lightbox="gallery" data-title="VoltGlass® výroba">
+            <img src="assets/img/4.png" alt="VoltGlass výroba">
+          </a>
+          <a href="assets/img/5.png" data-lightbox="gallery" data-title="VoltGlass® aplikace">
+            <img src="assets/img/5.png" alt="VoltGlass aplikace">
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 3. Pro koho je VoltGlass -->
+    <section id="partnership" class="vg-section">
+      <div class="vg-container">
+        <header class="vg-section-header">
+          <h2>Pro koho je VoltGlass®</h2>
+          <p>Hledáme partnery, kteří chtějí měnit budoucnost vytápění.</p>
+        </header>
+
+        <div class="vg-grid-3">
+          <div class="vg-partner-card">
+            <div class="vg-partner-icon"><i class="fas fa-drafting-compass"></i></div>
+            <h3>Architekti</h3>
+            <p>Navrhujte budovy bez radiátorů. Čisté linie, velká prosklení, plná volnost v interiéru.</p>
+            <a href="docs/aplikace.html" class="vg-link">Více o aplikacích <i class="fas fa-arrow-right"></i></a>
+          </div>
+          <div class="vg-partner-card">
+            <div class="vg-partner-icon"><i class="fas fa-building"></i></div>
+            <h3>Developeři</h3>
+            <p>Zvyšte hodnotu nemovitostí inovativním řešením. Splňte energetické normy bez kompromisů.</p>
+            <a href="docs/uspornost.html" class="vg-link">Více o úspornosti <i class="fas fa-arrow-right"></i></a>
+          </div>
+          <div class="vg-partner-card">
+            <div class="vg-partner-icon"><i class="fas fa-chart-line"></i></div>
+            <h3>Investoři</h3>
+            <p>Patentovaná technologie s vlastní výrobou. Rostoucí trh, silný potenciál růstu.</p>
+            <a href="pro-investory.html" class="vg-link">Pro investory <i class="fas fa-arrow-right"></i></a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- 4. Newsletter -->
+    <section id="newsletter" class="vg-section vg-section-alt">
+      <div class="vg-container">
+        <header class="vg-section-header">
+          <h2>Získejte exkluzivní novinky</h2>
+          <p>Žádný spam — jen důležité novinky a aktuality.</p>
+        </header>
+
+        <form class="vg-form" id="newsletter-form">
+          <div class="vg-form-row">
+            <label for="newsletter-email">E-mail</label>
+            <input id="newsletter-email" name="email" type="email" placeholder="vas@email.cz" required>
+          </div>
+          <fieldset class="vg-form-row vg-checkbox-group">
+            <legend>Co vás zajímá?</legend>
+            <label>
+              <input type="checkbox" name="interest" value="product">
+              Informace o produktech a předprodeji
+            </label>
+            <label>
+              <input type="checkbox" name="interest" value="investment">
+              Informace o investici
+            </label>
+            <label>
+              <input type="checkbox" name="interest" value="partnership">
+              Informace o partnerství a distribuci
+            </label>
+          </fieldset>
+          <div class="vg-form-row">
+            <label>
+              <input type="checkbox" name="gdpr" required>
+              Souhlasím se <a href="zasady-ochrany-udaju.html" target="_blank" style="color: #38bdf8; text-decoration: underline;">zpracováním osobních údajů</a>.
+            </label>
+          </div>
+          <button type="submit" class="vg-button">Přihlásit se k odběru</button>
+          <div id="form-message" style="margin-top: 1rem; text-align: center; display: none;"></div>
+        </form>
+        <p class="vg-note">Odhlásit se můžete kdykoli jedním kliknutím v e-mailu.</p>
+      </div>
+    </section>
+
+    <!-- 5. Blog sekce -->
+    <section id="blog" class="vg-section vg-section-alt">
+      <div class="vg-container">
+        <header class="vg-section-header">
+          <h2>Z našeho blogu</h2>
+          <p>Novinky, články a tipy ze světa moderního vytápění</p>
+        </header>
+
+        <div class="vg-blog-grid">
+          <article class="vg-blog-card">
+            <a href="blog/dekujeme-investorum-za-duveru.html" class="vg-blog-card-link">
+              <div class="vg-blog-card-image">
+                <img src="assets/img/blog-02.png" alt="Děkujeme investorům">
+              </div>
+              <div class="vg-blog-card-content">
+                <p class="vg-blog-card-date">19. února 2026 <span class="vg-blog-article-category">Novinky</span></p>
+                <h2 class="vg-blog-card-title">Děkujeme investorům za důvěru v projekt VoltGlass</h2>
+                <p class="vg-blog-card-excerpt">Díky vašim investicím se projekt VoltGlass posouvá do realizační fáze. Máme připravenou výrobní halu a předběžné objednávky na téměř 50 % kapacity.</p>
+                <span class="vg-blog-card-readmore">Číst více <i class="fas fa-arrow-right"></i></span>
+              </div>
+            </a>
+          </article>
+
+          <article class="vg-blog-card">
+            <a href="blog/spusteni-prodeje-dluhopisu-topne-sklo-vyrobni-zavod.html" class="vg-blog-card-link">
+              <div class="vg-blog-card-image">
+                <img src="assets/img/blog-01.png" alt="Spuštění prodeje dluhopisů">
+              </div>
+              <div class="vg-blog-card-content">
+                <p class="vg-blog-card-date">9. února 2026 <span class="vg-blog-article-category">Novinky</span></p>
+                <h2 class="vg-blog-card-title">Spouštíme prodej dluhopisů: další klíčový krok po patentu</h2>
+                <p class="vg-blog-card-excerpt">Po zajištění patentu přichází další klíčový krok: financování výrobního závodu v ČR, který umožní uvést topné sklo VoltGlass® na trh.</p>
+                <span class="vg-blog-card-readmore">Číst více <i class="fas fa-arrow-right"></i></span>
+              </div>
+            </a>
+          </article>
+
+          <article class="vg-blog-card">
+            <a href="blog/budoucnost-vytapeni-proc-topne-sklo.html" class="vg-blog-card-link">
+              <div class="vg-blog-card-image">
+                <img src="assets/img/1_titulka.png" alt="Budoucnost vytápění">
+              </div>
+              <div class="vg-blog-card-content">
+                <p class="vg-blog-card-date">23. ledna 2026 <span class="vg-blog-article-category">Technologie</span></p>
+                <h2 class="vg-blog-card-title">Budoucnost vytápění: Proč je topné sklo revolucí v architektuře</h2>
+                <p class="vg-blog-card-excerpt">Objevte, jak technologie VoltGlass® mění způsob, jakým přemýšlíme o vytápění budov. Od úspory energie po estetiku bez kompromisů.</p>
+                <span class="vg-blog-card-readmore">Číst více <i class="fas fa-arrow-right"></i></span>
+              </div>
+            </a>
+          </article>
+        </div>
+
+        <div style="margin-top: 2rem; text-align: center;">
+          <a href="blog/" class="vg-button vg-button-outline">Všechny články <i class="fas fa-arrow-right" style="margin-left: 0.5rem;"></i></a>
+        </div>
+      </div>
+    </section>
+
+    <!-- 8. Kontakt -->
+    <section id="contact" class="vg-section">
+      <div class="vg-container">
+        <header class="vg-section-header">
+          <h2>Ozvěte se nám – rádi vše vysvětlíme</h2>
+          <p>Technologie, investice, partnerství – jsme připraveni odpovědět.</p>
+        </header>
+
+        <div class="vg-grid-3">
+          <div>
+            <h3>Obecné dotazy</h3>
+            <p>E-mail: <a href="mailto:info@voltglass.cz">info@voltglass.cz</a></p>
+            <p class="vg-note">Odpovídáme do 24 hodin v pracovních dnech.</p>
+          </div>
+          <div>
+            <h3>Pro investory</h3>
+            <p>E-mail: <a href="mailto:invest@voltglass.cz">invest@voltglass.cz</a></p>
+            <p class="vg-note">Investiční materiály a finanční projekce po podpisu NDA.</p>
+          </div>
+          <div>
+            <h3>Pro developery a partnery</h3>
+            <p>E-mail: <a href="mailto:partner@voltglass.cz">partner@voltglass.cz</a></p>
+            <p class="vg-note">Technické konzultace, partnerské smlouvy, distribuční podmínky.</p>
+          </div>
+        </div>
+
+        <div class="vg-grid-3">
+            <div>
+          <h3>Sídlo společnosti</h3>
+          <p>VoltGlass výrobní závod s.r.o.<br>Komenského 264/5<br>500 03 Hradec Králové<br>IČ: 194 15 991</p>
+            </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="vg-footer">
+    <div class="vg-container vg-footer-content">
+      <div class="vg-footer-left">
+        <div class="vg-footer-social">
+          <a href="https://www.facebook.com/voltglassofficial" target="_blank" rel="noopener noreferrer" aria-label="Facebook" class="vg-footer-icon-link">
+            <i class="fa-brands fa-facebook-f"></i>
+          </a>
+          <a href="https://instagram.com/voltglass" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="vg-footer-icon-link">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a href="https://www.linkedin.com/company/voltglass" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn" class="vg-footer-icon-link">
+            <i class="fa-brands fa-linkedin-in"></i>
+          </a>
+        </div>
+        <p class="vg-note">
+          <a href="podminky-uziti.html">Podmínky užití</a> &middot; 
+          <a href="zasady-ochrany-udaju.html">Zásady ochrany osobních údajů</a> &middot; 
+          <a href="pro-investory.html">Pro investory</a>
+        </p>
+        <p>© 2026 VoltGlass s.r.o. &middot; Patent č. 309675 &middot; Všechna práva vyhrazena.</p>
+      </div>
+      <div class="vg-footer-logo">
+        <img src="assets/img/logo.png" alt="VoltGlass Logo" />
+      </div>
+    </div>
+  </footer>
+
+  <!-- Cookie Consent Banner -->
+  <div id="cookie-consent" class="cookie-consent" style="display: none;">
+    <div class="cookie-consent-content">
+      <div class="cookie-consent-text">
+        <h3>Používání cookies</h3>
+        <p>Tento web používá cookies pro zajištění základní funkčnosti a analýzu návštěvnosti. Více informací najdete v našich <a href="zasady-ochrany-udaju.html" class="cookie-link">zásadách ochrany osobních údajů</a>.</p>
+      </div>
+      <div class="cookie-consent-actions">
+        <button id="cookie-accept" class="cookie-btn cookie-btn-accept">Přijmout vše</button>
+        <button id="cookie-reject" class="cookie-btn cookie-btn-reject">Odmítnout volitelné</button>
+        <button id="cookie-settings" class="cookie-btn cookie-btn-settings">Nastavení</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
+  <script src="assets/js/main.js"></script>
+  <script src="assets/js/cookies.js"></script>
+  <script src="assets/js/newsletter.js"></script>
+  <script src="assets/js/menu.js"></script>
+  <script>
+    lightbox.option({
+      'resizeDuration': 200,
+      'wrapAround': true,
+      'albumLabel': 'Obrázek %1 z %2'
+    });
+  </script>
+</body>
+</html>
