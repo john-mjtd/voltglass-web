@@ -65,15 +65,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://www.voltglass.cz/docs/technicke-detaily.html</loc>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/technical-details.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
+  
   
   <!-- English pages -->
   <url>
@@ -135,15 +127,6 @@
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/uspornost.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/efficiency.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/uspornost.html"/>
-    <lastmod>2026-02-19</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.voltglass.cz/en/docs/technical-details.html</loc>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/technical-details.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/technicke-detaily.html"/>
     <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
