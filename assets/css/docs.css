@@ -600,3 +600,29 @@ body::after {
   color: var(--vg-primary, #38bdf8);
   border-left-color: var(--vg-primary, #38bdf8);
 }
+
+/* FAQ Items */
+.faq-item {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--vg-dark-600, #2d2d44);
+}
+
+.faq-item:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.faq-item h3 {
+  color: var(--vg-gray-100, #f3f4f6);
+  font-size: 1.1rem;
+  margin: 0 0 0.5rem 0;
+  font-weight: 600;
+}
+
+.faq-item p {
+  color: var(--vg-gray-300, #d1d5db);
+  margin: 0;
+  line-height: 1.6;
+}

@@ -159,6 +159,12 @@ a:hover {
   gap: 1.75rem;
 }
 
+.vg-grid-4 {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.5rem;
+}
+
 /* === 3. HEADER & NAVIGATION === */
 
 .vg-header {
@@ -1480,6 +1486,9 @@ a:hover {
   .vg-grid-3 {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+  .vg-grid-4 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 
   .vg-container {
     padding-inline: 2.2rem;
@@ -1581,6 +1590,9 @@ a:hover {
   }
 
   .vg-grid-3 {
+    grid-template-columns: 1fr;
+  }
+  .vg-grid-4 {
     grid-template-columns: 1fr;
   }
 
