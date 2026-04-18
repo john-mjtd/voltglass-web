@@ -5,7 +5,7 @@
   <url>
     <loc>https://www.voltglass.cz/</loc>
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/index.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/"/>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,10 +30,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.voltglass.cz/docs/</loc>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/"/>
+    <loc>https://www.voltglass.cz/docs/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/index.html"/>
     <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -78,9 +78,9 @@
   
   <!-- English pages -->
   <url>
-    <loc>https://www.voltglass.cz/en/</loc>
+    <loc>https://www.voltglass.cz/en/index.html</loc>
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/index.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/"/>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -105,10 +105,10 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.voltglass.cz/en/docs/</loc>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/"/>
+    <loc>https://www.voltglass.cz/en/docs/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/docs/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/docs/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/docs/index.html"/>
     <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -151,19 +151,19 @@
   </url>
   <!-- Blog pages -->
   <url>
-    <loc>https://www.voltglass.cz/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/"/>
+    <loc>https://www.voltglass.cz/blog/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/index.html"/>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.voltglass.cz/en/blog/</loc>
-    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/"/>
+    <loc>https://www.voltglass.cz/en/blog/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/index.html"/>
     <lastmod>2025-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
