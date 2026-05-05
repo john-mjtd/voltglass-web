@@ -169,11 +169,29 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.voltglass.cz/blog/voltglass-vstupuje-na-americky-trh.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/voltglass-vstupuje-na-americky-trh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/voltglass-enters-us-market.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/voltglass-vstupuje-na-americky-trh.html"/>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html</loc>
     <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html"/>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/future-of-heating-why-heated-glass.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/budoucnost-vytapeni-proc-topne-sklo.html"/>
     <lastmod>2025-01-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.voltglass.cz/en/blog/voltglass-enters-us-market.html</loc>
+    <xhtml:link rel="alternate" hreflang="cs" href="https://www.voltglass.cz/blog/voltglass-vstupuje-na-americky-trh.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.voltglass.cz/en/blog/voltglass-enters-us-market.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.voltglass.cz/blog/voltglass-vstupuje-na-americky-trh.html"/>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
